@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ApiGrm.Controllers.DeclaranteController",
+    "Method": "GetDeclarantes",
+    "RelativePath": "api/Declarante/info-declarante",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ApiGrm.DTO.InscripcionNacimiento.FiltroDeclaranteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGrm.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ApiGrm.DTO.InscripcionNacimiento.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
