@@ -43,9 +43,12 @@ namespace ApiGrm.Controllers
                                 {
                                     Ciudadano = reader["Ciudadano"].ToString(),
                                     Identificacion = reader["Identificacion"].ToString(),
+                                    IdSexo = Convert.ToInt32(reader["IdSexo"].ToString()),
                                     Sexo = reader["Sexo"].ToString(),
                                     FechaNacimiento = reader["FechaNacimiento"].ToString(),
+                                    IdNacionalidad = Convert.ToInt32(reader["IdNacionalidad"].ToString()),
                                     Nacionalidad = reader["Nacionalidad"].ToString(),
+                                    IdEstado = Convert.ToInt32(reader["IdEstado"].ToString()),
                                     EstadoCivil = reader["EstadoCivil"].ToString()
                                 };
                                 
