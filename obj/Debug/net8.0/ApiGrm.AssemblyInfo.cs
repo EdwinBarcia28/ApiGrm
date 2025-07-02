@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiGrm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e17dbe7f8811f9e16f3693479e4b14a82e20880d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiGrm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiGrm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

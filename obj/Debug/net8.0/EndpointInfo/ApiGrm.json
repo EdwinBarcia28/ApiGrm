@@ -36,6 +36,42 @@
         }
       }
     },
+    "/api/Declarante/sexo": {
+      "get": {
+        "tags": [
+          "Declarante"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Declarante/nacionalidad": {
+      "get": {
+        "tags": [
+          "Declarante"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Declarante/estado-civil": {
+      "get": {
+        "tags": [
+          "Declarante"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/Login/authenticate": {
       "post": {
         "tags": [

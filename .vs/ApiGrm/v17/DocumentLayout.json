@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\dto\\inscripcionnacimiento\\filtrodeclarantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:dto\\inscripcionnacimiento\\filtrodeclarantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\controllers\\declarantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:controllers\\declarantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\dto\\inscripcionnacimiento\\estadocivildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:dto\\inscripcionnacimiento\\estadocivildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\dto\\inscripcionnacimiento\\nacionalidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:dto\\inscripcionnacimiento\\nacionalidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\dto\\inscripcionnacimiento\\sexodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:dto\\inscripcionnacimiento\\sexodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\dto\\inscripcionnacimiento\\ciudadanodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:dto\\inscripcionnacimiento\\ciudadanodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\dto\\inscripcionnacimiento\\filtrodeclarantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|solutionrelative:dto\\inscripcionnacimiento\\filtrodeclarantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE678A05-0468-499E-9250-F706C48D0063}|ApiGrm.csproj|c:\\users\\ebarcia\\documents\\dev\\apigrm\\dto\\inscripcionnacimiento\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +82,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "EstadoCivilDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\EstadoCivilDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\InscripcionNacimiento\\EstadoCivilDTO.cs",
+              "ToolTip": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\EstadoCivilDTO.cs",
+              "RelativeToolTip": "DTO\\InscripcionNacimiento\\EstadoCivilDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:20:50.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NacionalidadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\NacionalidadDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\InscripcionNacimiento\\NacionalidadDTO.cs",
+              "ToolTip": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\NacionalidadDTO.cs",
+              "RelativeToolTip": "DTO\\InscripcionNacimiento\\NacionalidadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:55:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -82,45 +120,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CiudadanoDTO.cs",
               "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\CiudadanoDTO.cs",
               "RelativeDocumentMoniker": "DTO\\InscripcionNacimiento\\CiudadanoDTO.cs",
               "ToolTip": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\CiudadanoDTO.cs",
               "RelativeToolTip": "DTO\\InscripcionNacimiento\\CiudadanoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T14:54:10.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "FiltroDeclaranteDTO.cs",
               "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\FiltroDeclaranteDTO.cs",
               "RelativeDocumentMoniker": "DTO\\InscripcionNacimiento\\FiltroDeclaranteDTO.cs",
               "ToolTip": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\FiltroDeclaranteDTO.cs",
               "RelativeToolTip": "DTO\\InscripcionNacimiento\\FiltroDeclaranteDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T14:39:24.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T14:39:24.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DeclaranteController.cs",
               "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\Controllers\\DeclaranteController.cs",
               "RelativeDocumentMoniker": "Controllers\\DeclaranteController.cs",
               "ToolTip": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\Controllers\\DeclaranteController.cs",
               "RelativeToolTip": "Controllers\\DeclaranteController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBcAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwFwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T20:52:56.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -132,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ApiGrm.http",
               "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\ApiGrm.http",
               "RelativeDocumentMoniker": "ApiGrm.http",
@@ -144,20 +181,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T14:28:23.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:28:23.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\LoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\InscripcionNacimiento\\LoginDTO.cs",
@@ -175,21 +211,34 @@
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAwwJAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAFEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T20:14:43.747Z"
+              "WhenOpened": "2025-06-11T20:14:43.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T15:16:01.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SexoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\SexoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\InscripcionNacimiento\\SexoDTO.cs",
+              "ToolTip": "C:\\Users\\ebarcia\\Documents\\Dev\\ApiGrm\\DTO\\InscripcionNacimiento\\SexoDTO.cs",
+              "RelativeToolTip": "DTO\\InscripcionNacimiento\\SexoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:48:04.301Z"
             }
           ]
         }

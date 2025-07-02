@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "ApiGrm.Controllers.DeclaranteController",
+    "Method": "GetEstadoCivil",
+    "RelativePath": "api/Declarante/estado-civil",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGrm.Controllers.DeclaranteController",
     "Method": "GetDeclarantes",
     "RelativePath": "api/Declarante/info-declarante",
     "HttpMethod": "POST",
@@ -13,6 +23,26 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGrm.Controllers.DeclaranteController",
+    "Method": "GetNacionalidad",
+    "RelativePath": "api/Declarante/nacionalidad",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGrm.Controllers.DeclaranteController",
+    "Method": "GetSexo",
+    "RelativePath": "api/Declarante/sexo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
